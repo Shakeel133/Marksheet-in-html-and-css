@@ -1,0 +1,14 @@
+body{
+    padding: auto;
+    margin: 480px;
+}
+h2{
+    background-color: brown;
+}
+thead{
+    background-color: black;
+    color: white;
+}
+small{
+    font-size: 10px;
+}
